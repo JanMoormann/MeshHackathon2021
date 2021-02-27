@@ -44,6 +44,7 @@ def get_price_factor(lat: float, long: float) -> float:
     return price_factor
 
 
+# example for Stuttgart
 ticket_price = 2
 price_factor_adjustment = get_price_factor(48.7758, 9.1829)
 actual_price = ticket_price * price_factor_adjustment

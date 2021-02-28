@@ -10,6 +10,7 @@ reduce emissions with green mobility
 
 
 # Kurzbeschreibung der Solution und Präsentation mit den Schlüsselbotschaften
+[High Fidelity Mockup]("https://www.figma.com/proto/DGWoes1fyB8N1kDxryk6mM/GoGreen?node-id=1%3A2&scaling=scale-down")
 The target of our app is to encourage the citizens to reduce the CO2 emissions, without losing their mobility.
 Our target group is primarily the environmentally conscious people.
 Of course, we also try to bring people closer to the topic with the app, who have not given much thought to it, what harms the environment and how much.

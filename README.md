@@ -14,8 +14,10 @@ The target of our app is to encourage the citizens to reduce the co2 emissions, 
 Our target group is primarily the environmentally conscious people.
 Of course, we also try to bring people closer to the topic with the app, who have not given much thought to it, what harms the environment and how much.
 
-The main function of our app is, to show our users, how they can reach their destination and how much co2 will emit.
-When the co2-level in your city increase, the ticketprices are going down.
+The main function of our app is, to show our users, how they can reach their destination and how much co2 it will emit.
+When the co2-level in your city increase, the ticketprices are going down automatically.
+This would lead to less people driving and more people using public transport.
+
 If you choose to emit less co2 with taking the bus for example, you will get credits directly in your profile.
 Tickets can be bought directly in the app.
 

@@ -5,8 +5,8 @@ The title of our solution is "GoGreen-App"
 
 
 # Slogan der Solution
-"Reduce emissions, save the planet"
-"Walk and talK?"
+WALK, TALK & SAVE THE PLANET
+Reduce emissions with green mobility
 
 
 # Kurzbeschreibung der Solution und Präsentation mit den Schlüsselbotschaften
@@ -20,7 +20,7 @@ If you choose to emit less co2 with taking the bus for example, you will get cre
 Tickets can be bought directly in the app.
 
 The possibility with the least co2 emission, will give you the most credits.
-Credits can be used to ...
+Credits can be used as coupon for your next purchase
 
 The in-app dashboard shows your ranking in your city and the change per day.
 
